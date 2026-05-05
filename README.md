@@ -26,9 +26,13 @@ My focus is where clean code meets robust security.</i>
 <h2 align="center">🎵 I really like music</h2>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/wicho1497">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=wicho1497&cover_image=true&theme=novatid&show_offline=true&background_color=0d1117&interact=true&bar_color=5edb19&bar_color_cover=false" alt="Spotify Now Playing" />
+  <a href="https://open.spotify.com/user/wicho1497" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Listening%20Now-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
+</p>
+
+<p align="center">
+  <i>Currently vibing to: <b>Rock en español & Metal</b></i>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Tech Stack</b>
@@ -60,6 +64,10 @@ My focus is where clean code meets robust security.</i>
 </td>
 </tr>
 </table>
+
+
+<!-- Tools and Platforms -->
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 🤝🏻 &nbsp;Connect with Me
