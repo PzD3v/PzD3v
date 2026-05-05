@@ -23,8 +23,16 @@ My focus is where clean code meets robust security.</i>
 </tr>
 </table>
 
+<h2 align="center">🎵 I really like music</h2>
 
-<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <a href="https://open.spotify.com/user/wicho1497">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=wicho1497&cover_image=true&theme=novatid&show_offline=true&background_color=0d1117&interact=true&bar_color=5edb19&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Tech Stack</b>
+<br>
 <table align="center" bgcolor="#0d1117">
 <tr>
 <td align="center" valign="top" width="33%">
@@ -52,4 +60,17 @@ My focus is where clean code meets robust security.</i>
 </td>
 </tr>
 </table>
-<br />
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pedro-pesantez"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ppesantez97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/pedro.pesantez.14/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</p>
+
+
+-----
+
+
