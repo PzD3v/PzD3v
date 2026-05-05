@@ -9,7 +9,7 @@
 
 <h3>⚡ About me</h3>
 <p>
-<i>I am <b>Pedro Pesántez</b>, a certified Full Stack Software Developer and <b>Jr. Pentester</b>. 
+<i>I am <b>Pedro Pesantez</b>, a certified Full Stack Software Developer and <b>Jr. Pentester</b>. 
 I specialize in building secure, scalable solutions and automating complex workflows. 
 Founder of <b>Qbit Logic by PzDev</b>, I am a lifelong learner who thrives on tackling 
 new challenges and expanding my technical horizon every single day. 
@@ -65,10 +65,10 @@ My focus is where clean code meets robust security.</i>
 </tr>
 </table>
 
-
 <!-- Tools and Platforms -->
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -81,4 +81,6 @@ My focus is where clean code meets robust security.</i>
 
 -----
 
-
+```bash
+Last Update: July 05, 2026 | Thursday | UTC/GMT -5 hours
+```
