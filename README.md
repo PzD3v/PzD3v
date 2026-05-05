@@ -1,6 +1,6 @@
 <img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/1e4d5094-e2a7-4b27-bfbc-fb7220d4ee55" />
 <br />
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=false&vCenter=true&width=450&height=70&duration=4000&lines=Hey+There!+👋;I'm+Pedro+Pesántez!;Full+Stack+Developer;Jr.+Pentesting+Experience;Always+Learning+Every+Day;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=false&vCenter=true&width=450&height=70&duration=4000&lines=Hey+There!+👋;I'm+Pedro+Pesantez!;Full+Stack+Developer;Jr.+Pentesting+Experience;Always+Learning+Every+Day;" alt="Typing SVG" />
 
 <table align="center" width="100%" bgcolor="#0d1117">
 <tr>
@@ -44,7 +44,7 @@ My focus is where clean code meets robust security.</i>
 <a href="https://reactjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" /></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JS" /></a>
 <br/>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="45" alt="Bootstrap" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" height="45" alt="Bootstrap" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" /></a>
 </td>
 <td align="center" valign="top" width="33%">
